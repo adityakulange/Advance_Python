@@ -3,3 +3,4 @@
 3) Matplotlib
 4) seaborn
 5) sci-kitlearn
+6) This are my finalized libraries which i am going to use in my project
